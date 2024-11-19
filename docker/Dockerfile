@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM ubuntu:trusty-20190425
 
 # http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/
 RUN export uid=1000 gid=1000 && \
